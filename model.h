@@ -9,12 +9,6 @@ using namespace std;
 #include<map>
 #include <set>
 
-struct Parametry {
-    string plikUklad;
-    string plikWejscia;
-    string plikWyjscia;
-};
-
 struct Bramka {
     string Typbramki;
     int IndexWyjscia;
