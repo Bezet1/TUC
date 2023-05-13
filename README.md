@@ -1,5 +1,4 @@
 # TUC
-Logic gate simulator
 
 The algorithm can resolve logic gates using input and output files. It works by taking in two separate files as input.
 The first file contains information about the logic gates, including their type and their inputs and outputs. Each line of the file represents a separate logic gate.
